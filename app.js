@@ -1,1 +1,1 @@
-alert('git hub woohoo')
+console.log('git hub woohoo')
